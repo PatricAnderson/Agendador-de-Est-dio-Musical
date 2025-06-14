@@ -12,7 +12,7 @@ from tkcalendar import DateEntry
 class RehearsalSchedulerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Agendador de Ensaios do Estúdio (v2.4 Modern)")
+        self.root.title("Agendador de Ensaios do Estúdio (v1.0)")
         self.root.geometry("1200x700")
         self.root.minsize(1050, 600)
 
